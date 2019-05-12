@@ -63,13 +63,16 @@
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "4.2.0"
   },
+  "homepage": "http://rishabhgupta.github.io/ps-react-rg/",
   "scripts": {
     "prestart": "npm run gen:docs",
     "start": "npm-run-all --parallel start:docs gen:docs-watch",
     "gen:docs": "node scripts/generateComponentData.js",
     "gen:docs-watch": "npm run gen:docs -- --watch",
     "start:docs": "node scripts/start.js",
-    "build": "node scripts/build.js",
+    "build:docs": "node scripts/build.js",
+    "predeploy:docs": "npm run build:docs",
+    "deploy:docs": "gh-pages -d build",
     "test": "node scripts/test.js"
   },
   "eslintConfig": {
