@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5ac4182.chunk.css",
-    "main.js": "/static/js/main.0eda6ac2.chunk.js",
-    "main.js.map": "/static/js/main.0eda6ac2.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.52738377.chunk.css": "/static/css/2.52738377.chunk.css",
-    "static/js/2.eda5ee70.chunk.js": "/static/js/2.eda5ee70.chunk.js",
-    "static/js/2.eda5ee70.chunk.js.map": "/static/js/2.eda5ee70.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf87acef77c4b1351b2773c367e132a8.js": "/precache-manifest.bf87acef77c4b1351b2773c367e132a8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/static/css/2.52738377.chunk.css.map",
-    "static/css/main.a5ac4182.chunk.css.map": "/static/css/main.a5ac4182.chunk.css.map"
+    "main.css": "/ps-react-rg/static/css/main.a5ac4182.chunk.css",
+    "main.js": "/ps-react-rg/static/js/main.503cab2e.chunk.js",
+    "main.js.map": "/ps-react-rg/static/js/main.503cab2e.chunk.js.map",
+    "runtime~main.js": "/ps-react-rg/static/js/runtime~main.70b240bf.js",
+    "runtime~main.js.map": "/ps-react-rg/static/js/runtime~main.70b240bf.js.map",
+    "static/css/2.52738377.chunk.css": "/ps-react-rg/static/css/2.52738377.chunk.css",
+    "static/js/2.eda5ee70.chunk.js": "/ps-react-rg/static/js/2.eda5ee70.chunk.js",
+    "static/js/2.eda5ee70.chunk.js.map": "/ps-react-rg/static/js/2.eda5ee70.chunk.js.map",
+    "index.html": "/ps-react-rg/index.html",
+    "precache-manifest.02610f9e27c54ddd513cf266b75546a3.js": "/ps-react-rg/precache-manifest.02610f9e27c54ddd513cf266b75546a3.js",
+    "service-worker.js": "/ps-react-rg/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/ps-react-rg/static/css/2.52738377.chunk.css.map",
+    "static/css/main.a5ac4182.chunk.css.map": "/ps-react-rg/static/css/main.a5ac4182.chunk.css.map"
   }
 }
