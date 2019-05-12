@@ -1,6 +1,6 @@
 {
   "name": "cipherhack-build-template",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "main": "./lib/index.js",
   "engines": {
     "node": ">=4.0.0"
@@ -10,8 +10,14 @@
     "email": "rishabhgupta@msn.com",
     "url": "http://blog.cipherhack.com"
   },
-  "files": ["lib"],
-  "keywords": ["components", "react", "cipherhack"],
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "components",
+    "react",
+    "cipherhack"
+  ],
   "private": true,
   "dependencies": {
     "@emotion/core": "^10.0.10",
@@ -35,7 +41,6 @@
     "build:lib": "npm-run-all --parallel build:commonjs build:css build:copy-files",
     "prepublish": "npm run build:lib",
     "build:copy-files": "node scripts/copyBuildFiles.js"
-
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -98,14 +103,19 @@
     ]
   },
   "babel": {
-    "plugins": ["transform-class-properties"],
+    "plugins": [
+      "transform-class-properties"
+    ],
     "presets": [
       "es2016",
       "stage-2",
       "react",
-      ["env", {
-        "modules": "commonjs"
-      }]
+      [
+        "env",
+        {
+          "modules": "commonjs"
+        }
+      ]
     ]
   },
   "devDependencies": {
