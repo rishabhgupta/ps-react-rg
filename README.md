@@ -1,16 +1,12 @@
-# Pluralsight React Components
+# Cipherhack Common React Components
 
-A library of React components created in "Creating Reusable React Components" on Pluralsight.
+A library of Common React components.
 
 ## Install
 ```
-npm install ps-react
+npm install cipherhack-commons
 ```
 
-## Docs
+## Documentation
 [Component documentation](https://rishabhgupta.github.io/ps-react-rg/)
 
-## Component Hall of Fame 🎉
-Here's a list of components built by your fellow viewers!
-
-Submit a pull request to add your link here... :)
