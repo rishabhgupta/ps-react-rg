@@ -7,6 +7,6 @@ A library of Common React components.
 npm install cipherhack-commons
 ```
 
-## Documentation
+## Doc
 [Component documentation](https://rishabhgupta.github.io/ps-react-rg/)
 
